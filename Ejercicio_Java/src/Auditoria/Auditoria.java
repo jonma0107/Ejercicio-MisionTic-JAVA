@@ -4,7 +4,7 @@ package Auditoria;
 import java.util.Scanner;
 
 public class Auditoria {
-    //Main o función principal
+    //Main o Función Principal
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int produccion = sc.nextInt();
