@@ -12,7 +12,7 @@ La empresa ha creado unos grupos para determinar la competitividad de las sedes:
 
 - En el grupo uno se encuentra si la producción fue menor a 20, pero si quedó entre 21 y 30, inclusive, se encuentra en el grupo dos.
 
-- En el grupo tres se encuentran las sedes que la producción que la producción estuvo entre 31 y 50, inclusive.
+- En el grupo tres se encuentran las sedes que la producción estuvo entre 31 y 50, inclusive.
 
 - En el grupo cuatro si la proucción fue mayor a 50.
 
