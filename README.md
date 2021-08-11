@@ -28,6 +28,8 @@ Un número entero que representa la producción de la sede Palmira.
 En la primera línea tres números enteros separados por espacio que representan la producción de las sedes. En la segunda línea se debe indicar en qué grupo se
 encuentra la sede Yumbo según su producción.
 
+**Ejemplo:**
+
 | ENTRADA      | SALIDA |
 |:---------:|:-----:|
 | 87 | 87 178 53 |
